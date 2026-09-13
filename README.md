@@ -1,16 +1,12 @@
-## Hi there 👋
+Oie! 
+     Eu sou a Vivian.
 
-<!--
-**vivianolivcosta/vivianolivcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🍻 Atualmente trabalho como Auxiliar de Trade Marketing na Ambev.
+- 🧡 Sou Mentorada da 8º Turma do Progrma IBObr.
+- 👩🏾‍💻 Tenho formação técnica em Desenvolvimento de Sistemas pela ETEC-SP
+- 💻 Estou estudando UX/UI Design e Excel.
+- 🎯 Meu objetivo é atuar na ingressar na área de Tech. 
+ Sou organizada, analítico, comunicativo, proativa, facilidade e vontade de aprendizagem.
+ Tenho foco em resolução de problemas, melhoria contínua e desenvolvimento.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   🚀Vamos criar juntos? :))
