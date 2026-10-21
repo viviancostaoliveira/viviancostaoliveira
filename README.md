@@ -7,7 +7,7 @@ Oie!
 - 💻 Estou estudando Analise de Dados e UX/UI Design.
 - 🎯 Meu objetivo é atuar na ingressar na área de Tech.
   
- Sou organizada, analítico, comunicativo, proativa, facilidade e vontade de aprendizagem.
- Tenho foco em resolução de problemas, melhoria contínua e desenvolvimento.
+ Sou organizada, analítica, comunicativa, proativa, tenho facilidade e vontade de aprender.
+ Foco em resolução de problemas, melhoria contínua e desenvolvimento.
 
    🚀 Vamos crescer juntos? :))
