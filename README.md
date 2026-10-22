@@ -8,6 +8,6 @@ Oie!
 - 🎯 Meu objetivo é atuar na ingressar na área de Tech.
   
  Sou organizada, analítica, comunicativa, proativa, tenho facilidade e vontade de aprender.
- Foco em resolução de problemas, melhoria contínua e desenvolvimento.
+ Tenho foco em resolução de problemas, melhoria contínua e desenvolvimento.
 
    🚀 Vamos crescer juntos? :))
